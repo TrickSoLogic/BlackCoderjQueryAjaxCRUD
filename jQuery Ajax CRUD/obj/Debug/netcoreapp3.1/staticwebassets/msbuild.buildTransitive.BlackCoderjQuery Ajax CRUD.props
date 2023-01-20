@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BlackCoderjQuery Ajax CRUD.props" />
+</Project>
